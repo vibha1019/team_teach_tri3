@@ -9,3 +9,5 @@ menu: nav/home.html
 
 
 <a href="{{ site.baseurl }}/simulationteamteach" class="btn btn-primary">Team Teach - Simulations & Algorithms</a>
+<br>
+<a href="{{ site.baseurl }}/crowdsourcing-lesson" class="btn btn-primary">Team Teach - Crowdsourcing</a>
