@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: Life Game
 search_exclude: true
 permalink: /life/
