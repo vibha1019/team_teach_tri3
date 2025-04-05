@@ -191,3 +191,5 @@ function clearGrid() {
 // 初始渲染
 updateGrid();
 </script>
+
+<div>Extra Credit: Try the game twice to see how density affects evolution!</div>
